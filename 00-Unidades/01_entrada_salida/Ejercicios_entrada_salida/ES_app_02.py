@@ -27,8 +27,8 @@ class App(customtkinter.CTk):
 
 
     def btn_mostrar_on_click(self):
-        pass
-        
+        Dialog prompt ("factos", "sigue sin funcionar perro")
+        Dialog alert
         
     
 if __name__ == "__main__":
